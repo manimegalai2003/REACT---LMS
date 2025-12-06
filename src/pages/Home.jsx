@@ -7,7 +7,7 @@ export default function Home() {
     <div style={styles.page}>
     <div style={styles.container}>
       <img
-        src="/public/LMS.png"
+        src="/LMS.png"
         alt="LMS"
         style={styles.logo}
       />
